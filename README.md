@@ -29,15 +29,15 @@ Each lane has a counting line;
 vehicle is counted once when centroid crosses the line.
 
 Overlay Video:
-Red lines = counting lines
-Green/Orange boxes = tracked vehicles
-Top-left = lane counts in real time
+Red lines = counting lines;   
+Green/Orange boxes = tracked vehicles;    
+Top-left = lane counts in real time;   
 
-💡 Use Cases
-Smart city traffic monitoring
-Lane usage analytics
-Accident detection & traffic management
-Adaptive traffic signal control
+💡 Use Cases:   
+Smart city traffic monitoring;  
+Lane usage analytics;    
+Accident detection & traffic management;   
+Adaptive traffic signal control;   
 
 
 
